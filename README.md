@@ -1,5 +1,5 @@
 # String_Finder_File_List_Generator
-Python3 application to:  (1) search for specified string in files in a specified directory; (2) generate .txt file of all files in a specified directory
+Python 3 application to:  (1) search for specified string in files in a specified directory; (2) generate .txt file of all files in a specified directory
 
 #### String search
 Specify the string you want to search for in the specified directory and choose the file types you want to search on, and it will output a list of files which contain the string.
