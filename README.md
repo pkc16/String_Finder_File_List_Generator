@@ -12,7 +12,7 @@ Specify the directory you want to list all the files contained in them, and an o
 
 Note that if there are any subdirectories inside the specified directory, all files inside of subdirectories will included in the string search feature or the file list generation feature.
 
-#### Libraries used
+#### External Libraries used
 - tkinter
 - PyPDF2
 - docx
